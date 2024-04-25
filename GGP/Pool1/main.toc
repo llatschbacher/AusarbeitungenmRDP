@@ -2,12 +2,13 @@
 \contentsline {section}{\numberline {2}Stadtentwicklung}{4}{}%
 \contentsline {subsection}{\numberline {2.1}Aktuelle Situation}{4}{}%
 \contentsline {subsection}{\numberline {2.2}Zukunft}{4}{}%
-\contentsline {section}{\numberline {3}Infrastruktur}{5}{}%
-\contentsline {subsection}{\numberline {3.1}Aktuelle/Neue Projekte}{5}{}%
-\contentsline {subsection}{\numberline {3.2}Zukunft}{5}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}Öffentliche Verkehrsmittel}{5}{}%
-\contentsline {subsubsection}{\numberline {3.2.2}Strom und Wasser Versorgung}{5}{}%
-\contentsline {subsubsection}{\numberline {3.2.3}medizinische Versorgung}{6}{}%
-\contentsline {subsubsection}{\numberline {3.2.4}Einzelverkehr}{6}{}%
-\contentsline {subsection}{\numberline {3.3}Probleme}{6}{}%
-\contentsline {subsection}{\numberline {3.4}Zusammenfassung}{6}{}%
+\contentsline {subsection}{\numberline {2.3}Zusammenfassung}{4}{}%
+\contentsline {section}{\numberline {3}Infrastruktur}{6}{}%
+\contentsline {subsection}{\numberline {3.1}Aktuelle/Neue Projekte}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Zukunft}{6}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Öffentliche Verkehrsmittel}{6}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Strom und Wasser Versorgung}{6}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}medizinische Versorgung}{7}{}%
+\contentsline {subsubsection}{\numberline {3.2.4}Einzelverkehr}{7}{}%
+\contentsline {subsection}{\numberline {3.3}Probleme}{7}{}%
+\contentsline {subsection}{\numberline {3.4}Zusammenfassung}{7}{}%
