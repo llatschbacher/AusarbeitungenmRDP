@@ -1,0 +1,277 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.7)  28 APR 2024 21:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box51
+)
+(./main.aux (./chapters/Einleitung.aux) (./chapters/Globalisierung.aux)
+(./chapters/RegionaleEntwicklung.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+(/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen143
+\scratchbox=\box52
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen144
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+
+[1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./main.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [2]
+\openout2 = `chapters/Einleitung.aux'.
+
+ (./chapters/Einleitung.tex
+Overfull \hbox (18.45898pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/n/10 des freien Han-dels und der Glob-al-isierung auf die Entste-hun
+g von Wirtschaftsr^^?aumen
+ []
+
+
+Overfull \hbox (12.8616pt too wide) in paragraph at lines 9--10
+[]\OT1/cmr/m/n/10 Im Zuge dieser En-twick-lun-gen sind in []Osterreich ver-schi
+edene Wirtschaftsr^^?aume
+ []
+
+
+Overfull \hbox (0.31071pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/10 ent-standen, die sich durch spez-i-fis-che Merk-male und St^^?a
+rken ausze-ich-nen. Gro^^Ye
+ []
+
+)
+Overfull \hbox (8.00056pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/n/10 wirtschaftlichen Auf-schwung er-leben, ste-hen an-dere Re-gio-n
+en vor Her-aus-forderun-
+ []
+
+
+Overfull \hbox (27.02841pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/n/10 einer aus-ge-wo-ge-nen und nach-halti-gen re-gionalen Wirtschaf
+t-sen-twick-lung in []Osterreich. 
+ []
+
+[3
+
+]
+\openout2 = `chapters/Globalisierung.aux'.
+
+ (./chapters/Globalisierung.tex
+Overfull \hbox (8.32004pt too wide) in paragraph at lines 5--8
+\OT1/cmr/m/n/10 Durch die Glob-al-isierung wurde []Osterreich der Zu-gang zu in
+-ter-na-tionalen M^^?arkten
+ []
+
+
+Overfull \hbox (1.04689pt too wide) in paragraph at lines 5--8
+\OT1/cmr/m/n/10 ternehmen. Dadurch entsteht In-no-va-tions-druck und die Ef-fiz
+ienz wird gesteigert.
+ []
+
+
+Overfull \hbox (12.69493pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 nolo-gi-e-s-tandort, welcher eine wichtige Rolle in der ^^?oste
+rreichischen Wirtschaft
+ []
+
+[4
+
+
+
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+) [5]
+\openout2 = `chapters/RegionaleEntwicklung.aux'.
+
+ (./chapters/RegionaleEntwicklung.tex
+Overfull \hbox (32.42369pt too wide) in paragraph at lines 3--3
+[]\OT1/cmr/bx/n/12 Einflussfaktoren die zur Entste-hung von Wirtschaftsr^^?aume
+n
+ []
+
+
+Overfull \hbox (1.25061pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 ziehen Un-ternehmen, Ar-beit-skr^^?afte und In-vesti-tio-nen an
+ und bi-eten eine Vielzahl
+ []
+
+
+Overfull \hbox (2.41724pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 Die Pr^^?asenz von Bildungs- und Forschung-sein-rich-tun-gen wi
+e Uni-ver-sit^^?aten, Fach-
+ []
+
+
+Overfull \hbox (2.69511pt too wide) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 hochschulen und Forschungsin-sti-tute f^^?ordert die Bil-dung v
+on Wirtschaftsr^^?aumen.
+ []
+
+
+Overfull \hbox (6.80618pt too wide) in paragraph at lines 27--28
+\OT1/cmr/m/n/10 gemein-sam zur Entste-hung und En-twick-lung von Wirtschaftsr^^
+?aumen in []Osterreich
+ []
+
+[6
+
+
+
+]
+<./images/Wirtschaftsstärke_Bundesländer.png, id=27, 912.40875pt x 533.995pt>
+
+File: ./images/Wirtschaftsstärke_Bundesländer.png Graphic file (type png)
+<use ./images/Wirtschaftsstärke_Bundesländer.png>
+Package pdftex.def Info: ./images/Wirtschaftsstärke_Bundesländer.png  used on
+ input line 31.
+(pdftex.def)             Requested size: 364.95703pt x 213.59421pt.
+
+Overfull \hbox (19.95703pt too wide) in paragraph at lines 31--32
+[] 
+ []
+
+[7 <./images/Wirtschaftsstärke_Bundesländer.png>]
+<./images/BIP_Oesterreich.png, id=34, 724.7075pt x 462.72874pt>
+File: ./images/BIP_Oesterreich.png Graphic file (type png)
+<use ./images/BIP_Oesterreich.png>
+Package pdftex.def Info: ./images/BIP_Oesterreich.png  used on input line 57.
+(pdftex.def)             Requested size: 326.11536pt x 208.22601pt.
+
+Overfull \hbox (5.76451pt too wide) in paragraph at lines 67--68
+\OT1/cmr/m/n/10 Die Glob-al-isierung kann zu einem Struk-tur-wan-del in manchen
+ Wirtschaft-szweigen
+ []
+
+
+Overfull \hbox (1.88028pt too wide) in paragraph at lines 67--68
+\OT1/cmr/m/n/10 Fer-ti-gung. Re-gio-nen, welche mit stark von diesen be-trof-fe
+-nen Branchen abh^^?angig
+ []
+
+[8 <./images/BIP_Oesterreich.png>]
+Overfull \hbox (23.40346pt too wide) in paragraph at lines 77--78
+\OT1/cmr/m/n/10 nolo-gien und dig-i-tale Plat-tfor-men es Un-ternehmen in l^^?a
+ndlichen Ge-bi-eten erm^^?oglichen
+ []
+
+) [9] (./main.aux (./chapters/Einleitung.aux) (./chapters/Globalisierung.aux)
+(./chapters/RegionaleEntwicklung.aux))
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1406 strings out of 474222
+ 25021 string characters out of 5746181
+ 1934975 words of memory out of 5000000
+ 23670 multiletter control sequences out of 15000+600000
+ 562659 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,6n,65p,881b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on main.pdf (9 pages, 510101 bytes).
+PDF statistics:
+ 70 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
