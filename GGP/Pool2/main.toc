@@ -28,5 +28,5 @@
 \contentsline {subsubsection}{\numberline {4.2.2}Innovationspotenzial}{9}{}%
 \contentsline {subsection}{\numberline {4.3}Strategien und Handlungsempfehlungen}{9}{}%
 \contentsline {subsubsection}{\numberline {4.3.1}Diversifizierung der Wirtschaft}{9}{}%
-\contentsline {subsubsection}{\numberline {4.3.2}Stärkung der regionalen Zusammenarbeit}{9}{}%
-\contentsline {subsubsection}{\numberline {4.3.3}Gezielte Investitionen in Infrastruktur und Bildung}{9}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}Stärkung der regionalen Zusammenarbeit}{10}{}%
+\contentsline {subsubsection}{\numberline {4.3.3}Gezielte Investitionen in Infrastruktur und Bildung}{10}{}%
