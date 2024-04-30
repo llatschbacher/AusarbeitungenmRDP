@@ -1,35 +1,31 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.18)  29 APR 2024 16:36
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.7)  28 APR 2024 12:19
->>>>>>> dfd1c79088040f5ad55e19b931da4fa82c09c504
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.18)  29 APR 2024 16:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2024-02-13>
+(c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+(c:/texlive/2023/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count187
-\c@section=\count188
-\c@subsection=\count189
-\c@subsubsection=\count190
-\c@paragraph=\count191
-\c@subparagraph=\count192
-\c@figure=\count193
-\c@table=\count194
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+(c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count195
+\l__color_backend_stack_int=\count196
 \l__pdf_internal_box=\box51
 )
 (./main.aux (./chapters/Einleitung.aux) (./chapters/Stadtentwicklung.aux)
@@ -58,8 +54,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 6.
  [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main
-.toc
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -71,13 +66,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [2]
 \openout2 = `chapters/Einleitung.aux'.
 
- (./chapters/Einleitung.tex)
-[3
+ (./chapters/Einleitung.tex) [3
 
 ]
 \openout2 = `chapters/Stadtentwicklung.aux'.
 
- (./chapters/Stadtentwicklung.tex) [4
+
+(./chapters/Stadtentwicklung.tex) [4
 
 
 
@@ -93,32 +88,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (./chapters/Stadtentwicklung.aux) (./chapters/Infrastruktur.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
+L3 programming layer <2024-02-13>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 548 strings out of 474222
- 11509 string characters out of 5746181
- 1931975 words of memory out of 5000000
- 22848 multiletter control sequences out of 15000+600000
+ 548 strings out of 474141
+ 11453 string characters out of 5748625
+ 1933998 words of memory out of 5000000
+ 22929 multiletter control sequences out of 15000+600000
  562324 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,6n,50p,1513b,197s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<<<<<<< HEAD
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (8 pages, 89091 bytes).
-=======
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (8 pages, 89084 bytes).
->>>>>>> dfd1c79088040f5ad55e19b931da4fa82c09c504
+Output written on main.pdf (8 pages, 89488 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
